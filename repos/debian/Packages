@@ -1,0 +1,17 @@
+Package: hanami
+Architecture: all
+Version: 0.0.0-1
+Priority: extra
+Section: admin
+Maintainer: Kazumichi Yamamoto <yamamoto.febc@gmail.com>
+Installed-Size: 1211
+Filename: ./hanami_0.0.0-1_all.deb
+Size: 377160
+MD5sum: a319dccfc01132243fc38a3ee2e6b96c
+SHA1: ea33e5cea2d45b28196636bf15099c410d5bacd7
+SHA256: cf4148c89c4e575ca3b8b524d1169c412d6b7a4d4fd4c660e37076c15a6ced2a
+SHA512: 37333487be3472d1ffa0705e7c91aff811c3aa37d1252dcf27513992d0f508641ab9be21a8292587eb457b3c3f68513ffb83983ddb797a0d7442fa6bc8a650e4
+Homepage: https://github.com/sacloud/hanami
+Description: hanami
+ Resource monitoring and hook for the SAKURA Cloud
+
